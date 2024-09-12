@@ -1,0 +1,53 @@
+
+
+.custom{
+    background-color: rgb(0, 0, 0);
+        
+}
+
+.text-color{
+    color: aliceblue;
+    font-size: 15px;
+}
+
+
+.Project{
+    width: 100%;
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+.Project_item{
+    float: left;
+    height: 300px;
+    width: 32.2%;
+    background-image: url(images/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+
+
+
+
+.footer{
+    height: 200px;
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+}
+
+.footer-item{
+    width: 33%;
+    float: left;
+    margin-top: 10px;
+}
+
+.link{
+    text-decoration: none;
+    color: rgb(199, 199, 103);
+    display: block;
+    margin-top: 5px;
